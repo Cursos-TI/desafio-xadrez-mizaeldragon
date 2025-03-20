@@ -28,6 +28,16 @@ int main(){
         k++;
     } while (k <= 8);
     
+    // Cavalo
+      for(int b = 0; b < 1; b++ ){
+        int e = 0;
+        while (e < 2){
+            printf("Baixo\n");
+            e++;
+        }
+        printf("Esquerda\n");
+    }
+
 
     return 0;
 }
